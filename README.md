@@ -1,4 +1,4 @@
-This template is a modified version of this repository: https://github.com/belohlavek/phaser-es6-boilerplate
+This template is a modified version of this repository: https://github.com/jvaranam/phaser_boilerplate
 
 It has been modified to include the following states:
 
@@ -51,7 +51,7 @@ You need [Node.js and npm](https://nodejs.org/). You should also have git instal
 
 Clone the repository (or download the ZIP file)
 
-`git clone https://github.com/belohlavek/phaser-es6-boilerplate.git`
+`git clone https://github.com/jvaranam/phaser_boilerplate.git`
 
 Install dependencies
 
@@ -78,7 +78,7 @@ If you modify the contents of other files, please manually restart the server.
 
 ### Modifying `gulpfile.js`
 
-See [gulpfile.md](https://github.com/belohlavek/phaser-es6-boilerplate/blob/master/gulpfile.md)
+See [gulpfile.md](https://github.com/jvaranam/phaser_boilerplate/blob/master/gulpfile.md)
 
 ## Changelog (1.0.2)
 
@@ -87,12 +87,7 @@ See [gulpfile.md](https://github.com/belohlavek/phaser-es6-boilerplate/blob/mast
 
 ## Contributing
 
-Please report any bugs or add requests on [Github Issues](https://github.com/belohlavek/phaser-es6-boilerplate/issues).
-
-## About me
-
-My name is Daniel Belohlavek: I'm from Buenos Aires, Argentina and I love to derp around and code
-silly snippets. You can follow me on Twitter [@dbhvk](http://twitter.com/dbhvk)
+Please report any bugs or add requests on [Github Issues](https://github.com/jvaranam/phaser_boilerplate/issues).
 
 ## License
 
